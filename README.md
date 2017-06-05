@@ -1,6 +1,6 @@
 # HW-18-MongoDB With Mongoose
 
-## Live Link (If relevant)
+## Live Link
  - https://warm-inlet-84146.herokuapp.com/
 
 ## Description on how to use the app
@@ -58,7 +58,7 @@ In this assignment, you'll create a web app that lets users leave comments on th
 
 
 ## Technologies Used
-#### Use bullets to list out the technologies used. For example,
+
 - MongoDB Database
 - Mongoose
 - Scraping
